@@ -8,7 +8,7 @@ Interest: Machine Learning, Azure and AWS, AI, Big Data Analytics
 
 I love working with different technologies & platforms and my current favorite ones are
 
-Skills:
+#Skills:
 - SQL Server
 - Oracle SQL
 - Microsoft Power BI
