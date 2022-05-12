@@ -12,7 +12,9 @@ I love working with different technologies & platforms and my current favorite o
 - SQL Server
 - Oracle SQL
 - Microsoft Power BI
-- Python/ Microsoft Azure
+- Micro Excel
+- Python
+- Microsoft Azure
 - SSRS and SSIS
 - KNIME
 
