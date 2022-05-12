@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Femi...
 #### Data Analyst | Business Intelligence Analyst
-![Data Analyst | Business Intelligence Analyst](https://github.com/oritogunf/oritogunf/commit/f892d4e4cd9f7f088c9adefc9f449bfea17ea953)
+![Data Analyst | Business Intelligence Analyst](https://media-exp1.licdn.com/dms/image/C4D16AQHt2_eQacs31g/profile-displaybackgroundimage-shrink_350_1400/0/1629403048427?e=1657756800&v=beta&t=H8SY9yEqAWiRN8cn_7Lmx5eQF9eRoxDRiR31UJPpRUc)
 
 I have four years of expertise and specialize in designing and implementing data-driven solutions that provide actionable insights and recommendations to drive business value, enable management in making business decisions and enhance customer's satisfaction.
 
