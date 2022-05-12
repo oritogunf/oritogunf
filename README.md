@@ -1,7 +1,7 @@
 ### Hello! 👋
 _________________________________________________________________________________________________________________________________________________________________________
 
-I have four years of expertise and specialize in providing actionable insights that assist organizations in making strategic decisions that promote growth, increase customer satisfaction, and increase client retention.
+I have four years of expertise and specialize in designing and implementing data-driven solutions that provide actionable insights and recommendations to drive business value, enable management in making business decisions and enhance customer's satisfaction.
 
 Interest: Machine Learning, Azure and AWS, AI, Big Data Analytics
 
