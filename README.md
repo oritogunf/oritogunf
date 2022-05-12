@@ -1,7 +1,7 @@
 ![Data Analyst | Business Intelligence Analyst](https://media-exp1.licdn.com/dms/image/C4D16AQHt2_eQacs31g/profile-displaybackgroundimage-shrink_350_1400/0/1629403048427?e=1657756800&v=beta&t=H8SY9yEqAWiRN8cn_7Lmx5eQF9eRoxDRiR31UJPpRUc)
 
 # Femi Oritogun
-I am Femi and I specialize in designing and implementing data-driven solutions that provide actionable insights and recommendations to drive business value, enable management in making business decisions and enhance customer's satisfaction.
+I specialize in designing and implementing data-driven solutions that provide actionable insights and recommendations to drive business value, enable management in making business decisions and enhance customer's satisfaction.
 
 ## Skills and Experience
 Interest: Machine Learning, Azure and AWS, AI, Big Data Analytics
