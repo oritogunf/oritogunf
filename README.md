@@ -1,20 +1,14 @@
-- 👋 Hi, I’m @oritogunfh bhb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-I love working with different technologies & platforms and my current favorite ones are
+### Hello! 👋
+_________________________________________________________________________________________________________________________________________________________________________
 
-❤️ SQL Server/ Oracle SQL
-❤️ Python
-❤️ Tableau
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I have four years (4) years of experience and I specialize in providing actionable insights that helps organisations in making strategic decision to promote growth, accelerate customer's satisfaction and clients retention rate.
+
+Yeah... I enjoy 
 
 I love working with different technologies & platforms and my current favorite ones are
 
-❤️ SQL Server/ Oracle SQL
-❤️ Python
-❤️ Tableau
-<!---
-oritogunf/oritogunf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- SQL Server/ Oracle SQL
+- Microsoft Power BI
+- Python
+- Microsoft Azure
+- SSRS and SSIS
