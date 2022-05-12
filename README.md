@@ -1,9 +1,9 @@
 ### Hello! 👋
 _________________________________________________________________________________________________________________________________________________________________________
 
-I have four years (4) years of experience and I specialize in providing actionable insights that helps organisations in making strategic decision to promote growth, accelerate customer's satisfaction and clients retention rate.
+I have four years of expertise and specialize in providing actionable insights that assist organizations in making strategic decisions that promote growth, increase customer satisfaction, and increase client retention.
 
-Yeah... I enjoy 
+Interest: Machine Learning, Azure and AWS, AI, Big Data Analytics
 
 I love working with different technologies & platforms and my current favorite ones are
 
@@ -12,3 +12,4 @@ I love working with different technologies & platforms and my current favorite o
 - Python
 - Microsoft Azure
 - SSRS and SSIS
+- KNIME
