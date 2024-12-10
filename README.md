@@ -4,9 +4,13 @@
 I specialize in designing and implementing data-driven solutions that provide actionable insights and recommendations to drive business value, enable management in making business decisions and enhance customer's satisfaction.
 
 ## Skills and Experience
-Interest: Machine Learning, Azure and AWS, AI, Big Data Analytics
+Extensive experience across multiple product verticals, including:
 
-I love working with different technologies & platforms and my current favorite ones are
+Payment Vertical: Expertise in local and cross-border payment platforms, with hands-on experience in analyzing customer acquisition and engagement for products like OneBank, USSD channels, and Switch.
+Lending Vertical: Proficient in analyzing loan and lending products tailored for SMEs and individual customers, such as SnapCash and Specta.
+Investment Vertical: Skilled in analytics for investment products, including Doubble and I-Invest. 
+Cards & e-Business Vertical: Comprehensive knowledge in debit and credit cards, POS systems, ATM analytics, and mobile acceptance solutions like NQR.
+SMEs: Supported growth in SME-focused platforms such as Banca, TheBusinessHub, and the Business Support Facility (BSF), which provides lending solutions to SMEs.
 
 ### Skills:
 ● Computer Languages:
