@@ -4,7 +4,7 @@
 I specialize in designing and implementing data-driven solutions that provide actionable insights and recommendations to drive business value, enable management in making business decisions and enhance customer's satisfaction.
 
 ## Skills and Experience
-Extensive experience across multiple product verticals, including:
+Extensive experience working for top financial Institution, Fintechs, FMCGs across multiple product verticals, including:
 
 Payment Vertical: Expertise in local and cross-border payment platforms, with hands-on experience in analyzing customer acquisition and engagement for products like OneBank, USSD channels, and Switch.
 Lending Vertical: Proficient in analyzing loan and lending products tailored for SMEs and individual customers, such as SnapCash and Specta.
