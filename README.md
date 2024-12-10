@@ -9,13 +9,44 @@ Interest: Machine Learning, Azure and AWS, AI, Big Data Analytics
 I love working with different technologies & platforms and my current favorite ones are
 
 ### Skills:
-- SQL 
-- Microsoft Power BI
-- Microsoft Excel
-- Python
-- Microsoft Azure
-- SSRS and SSIS
-- KNIME
+● Computer Languages:
+□ SQL (T-SQL, PL/SQL)
+□ Python
+□ HTML, XML
+
+● Databases:
+□ MS SQL Server
+□ Oracle
+□ MySQL
+□ PostgreSQL
+
+● Reporting Tools:
+□ PowerBI
+□ Tableau
+□ SSRS
+□ Metabase
+□ Looker
+□ QuickSight
+□ Amplitude
+□ Netcore
+□ AppsFlyer
+□ MixPanel
+
+
+● Data Warehouse - ETL Tools:
+□ KNIME
+□ SSIS
+
+● IDE/Frameworks:
+□ Visual Studio
+□ Spyder
+□ Jupyter Notebook
+□ PyCharm
+□ Confluence
+
+● Cloud Platform
+□ Azure Data Factory
+□ AWS - Amazon RedShift
 
 <!--- #https://github.com/alexandresanlim/Badges4-README.md-Profile#-static --->
 
